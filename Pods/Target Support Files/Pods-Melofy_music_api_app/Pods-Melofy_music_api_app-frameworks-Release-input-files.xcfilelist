@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Melofy_music_api_app/Pods-Melofy_music_api_app-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework

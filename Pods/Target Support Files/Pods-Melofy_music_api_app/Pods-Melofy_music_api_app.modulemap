@@ -1,0 +1,6 @@
+framework module Pods_Melofy_music_api_app {
+  umbrella header "Pods-Melofy_music_api_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
